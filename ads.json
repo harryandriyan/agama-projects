@@ -31,5 +31,16 @@
         "githubUri": "https://github.com/kdhttps/agama-projects",
         "license": "MIT",
         "lastUpdated": "1681388980863"
+    },
+    "kiran_4rth": {
+        "projectName": "kiran_4rth",
+        "description": "sdfdsf",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/agama-projects",
+        "githubUri": "https://github.com/kdhttps/agama-projects",
+        "license": "MIT",
+        "lastUpdated": "1681395488610"
     }
 }
