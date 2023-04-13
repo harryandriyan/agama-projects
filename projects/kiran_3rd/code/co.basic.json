@@ -1,58 +1,138 @@
-[
-  {
-    "id": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf",
-    "type": "start",
-    "sourcePosition": "right",
-    "data": {
-      "id": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf",
-      "type": "Agama-start-Flow",
-      "position": {
-        "x": 30,
-        "y": 75
-      },
-      "handles": [],
-      "agamaData": {
-        "id": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf",
-        "type": "Agama-start-Flow",
-        "hasSuccess": false,
-        "hasFailure": false,
-        "hasRepeat": false,
-        "hasNoRepeat": false,
-        "name": "",
-        "basepath": "",
-        "comment": "",
-        "flowfilename": "",
-        "assignedvariableName": "",
-        "callType": "Call static method",
-        "arguments": "",
-        "logMessage": "",
-        "variableType": "",
-        "templatePath": "",
-        "maxIteration": "",
-        "idpAuthEndpoint": "",
-        "whenVariable": "",
-        "whenConditionInputField": "",
-        "whenValue": "",
-        "returnVariable": "",
-        "asssignmentExpression": "",
-        "asssignedVariableName": "",
-        "javaClassName": "",
-        "javaMethodName": "",
-        "javaVariableName": "",
-        "maxIterationVariableName": "",
-        "logLevel": "",
-        "assignCallbackResult": "",
-        "displayName": "basic",
-        "nodeColor": "",
-        "titleColor": "",
-        "descColor": "",
-        "nodeIcon": "material-symbols:line-start-square",
-        "flowname": "co.basic"
-      }
-    },
-    "position": {
-      "x": 30,
-      "y": 75
-    }
-  }
-]
+{
+	"nodes": [
+		{
+			"width": 170,
+			"height": 121,
+			"id": "Agama-log-Node-1d57136d-9a4c-41df-8c96-8a2c67221f2f",
+			"position": {
+				"x": 313,
+				"y": 107
+			},
+			"type": "log",
+			"data": {
+				"id": "Agama-log-Node-1d57136d-9a4c-41df-8c96-8a2c67221f2f",
+				"type": "Agama-log-Node",
+				"parentId": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"handles": [],
+				"position": {
+					"x": 313,
+					"y": 107
+				},
+				"agamaData": {
+					"id": "Agama-log-Node-1d57136d-9a4c-41df-8c96-8a2c67221f2f",
+					"type": "Agama-log-Node",
+					"parentId": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf",
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"comment": "",
+					"callType": "Call static method",
+					"logLevel": "info",
+					"logMessage": "\"user info\"",
+					"displayName": "",
+					"nodeIcon": "octicon:log-16"
+				}
+			},
+			"selected": true,
+			"positionAbsolute": {
+				"x": 313,
+				"y": 107
+			},
+			"dragging": false
+		},
+		{
+			"width": 170,
+			"height": 121,
+			"id": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf",
+			"type": "start",
+			"sourcePosition": "right",
+			"data": {
+				"id": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf",
+				"type": "Agama-start-Flow",
+				"position": {
+					"x": 30,
+					"y": 75
+				},
+				"handles": [],
+				"agamaData": {
+					"id": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf",
+					"type": "Agama-start-Flow",
+					"hasSuccess": false,
+					"hasFailure": false,
+					"hasRepeat": false,
+					"hasNoRepeat": false,
+					"name": "",
+					"basepath": "",
+					"comment": "",
+					"flowfilename": "",
+					"assignedvariableName": "",
+					"callType": "Call static method",
+					"arguments": "",
+					"logMessage": "",
+					"variableType": "",
+					"templatePath": "",
+					"maxIteration": "",
+					"idpAuthEndpoint": "",
+					"whenVariable": "",
+					"whenConditionInputField": "",
+					"whenValue": "",
+					"returnVariable": "",
+					"asssignmentExpression": "",
+					"asssignedVariableName": "",
+					"javaClassName": "",
+					"javaMethodName": "",
+					"javaVariableName": "",
+					"maxIterationVariableName": "",
+					"logLevel": "",
+					"assignCallbackResult": "",
+					"displayName": "basic",
+					"nodeColor": "",
+					"titleColor": "",
+					"descColor": "",
+					"nodeIcon": "material-symbols:line-start-square",
+					"flowname": "co.basic"
+				},
+				"inRepeatBlock": false,
+				"whenCondition": ""
+			},
+			"position": {
+				"x": 30,
+				"y": 75
+			},
+			"selected": false,
+			"dragging": false,
+			"positionAbsolute": {
+				"x": 30,
+				"y": 75
+			}
+		}
+	],
+	"edges": [
+		{
+			"id": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf-Agama-log-Node-1d57136d-9a4c-41df-8c96-8a2c67221f2f-a292977a-1107-4204-8a0b-12c34b20d1c8",
+			"type": "straight",
+			"source": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf",
+			"target": "Agama-log-Node-1d57136d-9a4c-41df-8c96-8a2c67221f2f",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
+		}
+	],
+	"viewport": {
+		"x": 10,
+		"y": 15,
+		"zoom": 1
+	}
+}
