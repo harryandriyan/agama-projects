@@ -1,1 +1,13 @@
-{}
+{
+    "kiran_first": {
+        "projectName": "kiran_first",
+        "description": "first project",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/agama-projects",
+        "githubUri": "https://github.com/kdhttps/agama-projects",
+        "license": "MIT",
+        "lastUpdated": "1681377601416"
+    }
+}
