@@ -68,9 +68,9 @@
 					"comment": "",
 					"callType": "Call static method",
 					"logLevel": "info",
-					"timeout": "",
+					"timeout": "100",
 					"inputs": "salution",
-					"configs": "conf",
+					"configs": "",
 					"displayName": "basic",
 					"nodeIcon": "material-symbols:line-start-square"
 				},
