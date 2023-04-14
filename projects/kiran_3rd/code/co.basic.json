@@ -68,7 +68,7 @@
 					"comment": "",
 					"callType": "Call static method",
 					"logLevel": "info",
-					"timeout": "100",
+					"timeout": "",
 					"inputs": "salution",
 					"configs": "conf",
 					"displayName": "basic",
