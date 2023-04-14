@@ -35,10 +35,6 @@
             "co.basic": {
                 "client_id": "client id for flow1",
                 "scope": "List of scope e.g. opened email"
-            },
-            "co.flow2": {
-                "client_id": "client id for flow1",
-                "scope": "List of scope e.g. opened email"
             }
         }
     },
