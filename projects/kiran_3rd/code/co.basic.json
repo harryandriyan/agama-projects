@@ -37,7 +37,7 @@
 					"nodeIcon": "octicon:log-16"
 				}
 			},
-			"selected": true,
+			"selected": false,
 			"positionAbsolute": {
 				"x": 313,
 				"y": 107
@@ -61,40 +61,18 @@
 				"agamaData": {
 					"id": "Agama-start-Flow-a75cfa10-e3de-47d8-ad47-92de425f0fcf",
 					"type": "Agama-start-Flow",
-					"hasSuccess": false,
-					"hasFailure": false,
-					"hasRepeat": false,
-					"hasNoRepeat": false,
-					"name": "",
-					"basepath": "",
-					"comment": "",
-					"flowfilename": "",
-					"assignedvariableName": "",
-					"callType": "Call static method",
-					"arguments": "",
-					"logMessage": "",
-					"variableType": "",
-					"templatePath": "",
-					"maxIteration": "",
-					"idpAuthEndpoint": "",
-					"whenVariable": "",
-					"whenConditionInputField": "",
-					"whenValue": "",
-					"returnVariable": "",
-					"asssignmentExpression": "",
-					"asssignedVariableName": "",
-					"javaClassName": "",
-					"javaMethodName": "",
-					"javaVariableName": "",
-					"maxIterationVariableName": "",
-					"logLevel": "",
-					"assignCallbackResult": "",
-					"displayName": "basic",
 					"nodeColor": "",
 					"titleColor": "",
 					"descColor": "",
-					"nodeIcon": "material-symbols:line-start-square",
-					"flowname": "co.basic"
+					"flowname": "co.basic",
+					"comment": "",
+					"callType": "Call static method",
+					"logLevel": "info",
+					"timeout": "100",
+					"inputs": "salution",
+					"configs": "conf",
+					"displayName": "basic",
+					"nodeIcon": "material-symbols:line-start-square"
 				},
 				"inRepeatBlock": false,
 				"whenCondition": ""
@@ -103,7 +81,7 @@
 				"x": 30,
 				"y": 75
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
