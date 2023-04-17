@@ -1,2 +1,3 @@
 Flow co.basic2
      Basepath ""
+Log "@info user info"
