@@ -1,5 +1,4 @@
 Flow co.basic
      Basepath ""
-     Timeout 100 seconds
-     Inputs salution
 Log "@info user info"
+Log "@info user"
