@@ -1,4 +1,0 @@
-Flow co.basic3
-     Basepath ""
-Log "@info user"
-authResult = {}
