@@ -21,23 +21,6 @@
         "license": "MIT",
         "lastUpdated": "1681384574742"
     },
-    "kiran_3rd": {
-        "projectName": "kiran_3rd",
-        "description": "3rd",
-        "type": "community",
-        "author": "kdhttps",
-        "version": "3.0.1",
-        "authorWebsite": "https://github.com/kdhttps/agama-projects",
-        "githubUri": "https://github.com/kdhttps/agama-projects",
-        "license": "MIT",
-        "lastUpdated": "1681388980863",
-        "configs": {
-            "co.basic": {
-                "client_id": "client id for flow1",
-                "scope": "List of scope e.g. opened email"
-            }
-        }
-    },
     "kiran_4rth": {
         "projectName": "kiran_4rth",
         "description": "sdfdsf",
