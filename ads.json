@@ -20,16 +20,5 @@
         "githubUri": "https://github.com/kdhttps/agama-projects",
         "license": "MIT",
         "lastUpdated": "1681384574742"
-    },
-    "kiran_version_t": {
-        "projectName": "kiran_version_t",
-        "description": "test version",
-        "type": "community",
-        "author": "kdhttps",
-        "version": "0.0.0",
-        "authorWebsite": "https://github.com/kdhttps/agama-projects",
-        "githubUri": "https://github.com/kdhttps/agama-projects",
-        "license": "MIT",
-        "lastUpdated": "1681790866598"
     }
 }
