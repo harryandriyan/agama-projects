@@ -27,14 +27,11 @@
 					"whenCondition": "",
 					"inRepeatBlock": false,
 					"nodeColor": "",
-					"titleColor": "",
-					"descColor": "",
-					"comment": "",
+					"comment": "log userf auth info",
 					"callType": "Call static method",
 					"logLevel": "info",
 					"logMessage": "\"user info\"",
-					"displayName": "",
-					"nodeIcon": "octicon:log-16"
+					"displayName": "Log user info"
 				}
 			},
 			"selected": true,
