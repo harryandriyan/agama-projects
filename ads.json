@@ -42,5 +42,16 @@
         "githubUri": "https://github.com/kdhttps/agama-projects",
         "license": "MIT",
         "lastUpdated": "1681980886591"
+    },
+    "kiran_fifth": {
+        "projectName": "kiran_fifth",
+        "description": "fifth",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.0",
+        "authorWebsite": "https://github.com/kdhttps/agama-projects",
+        "githubUri": "https://github.com/kdhttps/agama-projects",
+        "license": "MIT",
+        "lastUpdated": "1682003150835"
     }
 }
