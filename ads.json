@@ -31,5 +31,16 @@
         "githubUri": "https://github.com/kdhttps/agama-projects",
         "license": "MIT",
         "lastUpdated": "1681972867406"
+    },
+    "kiran_six": {
+        "projectName": "kiran_six",
+        "description": "sixth project testing",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.0",
+        "authorWebsite": "https://github.com/kdhttps/agama-projects",
+        "githubUri": "https://github.com/kdhttps/agama-projects",
+        "license": "MIT",
+        "lastUpdated": "1681980886591"
     }
 }
