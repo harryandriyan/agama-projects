@@ -1,2 +1,4 @@
 Flow co.six
      Basepath ""
+Log "@info user auth"
+result = RRF "login.ftlh" 
