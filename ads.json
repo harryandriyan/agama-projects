@@ -21,17 +21,6 @@
         "license": "MIT",
         "lastUpdated": "1681384574742"
     },
-    "kiran_third": {
-        "projectName": "kiran_third",
-        "description": "kiran third",
-        "type": "community",
-        "author": "kdhttps",
-        "version": "1.0.0",
-        "authorWebsite": "https://github.com/kdhttps/agama-projects",
-        "githubUri": "https://github.com/kdhttps/agama-projects",
-        "license": "MIT",
-        "lastUpdated": "1682525592908"
-    },
     "kiran_fourth": {
         "projectName": "kiran_fourth",
         "description": "fourth",
