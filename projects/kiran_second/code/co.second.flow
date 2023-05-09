@@ -1,2 +1,6 @@
 Flow co.second
      Basepath ""
+     Timeout 100 seconds
+     Configs conf
+     Inputs salute
+Log "@info user info"
