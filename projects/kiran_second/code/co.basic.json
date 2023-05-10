@@ -134,12 +134,12 @@
 					"whenValue": "true",
 					"nodeIcon": "",
 					"hasSuccess": true,
-					"variableField": "authResult",
+					"variableField": "authResult.success",
 					"conditionInputField": "is",
 					"valueField": "true"
 				}
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 620.356005859375,
@@ -726,8 +726,8 @@
 		}
 	],
 	"viewport": {
-		"x": 103.92926567147117,
-		"y": 76.09957590603517,
+		"x": 75.92926567147117,
+		"y": -17.90042409396483,
 		"zoom": 0.9867293282836829
 	}
 }
